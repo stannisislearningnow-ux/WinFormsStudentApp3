@@ -1,10 +1,13 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+﻿# Visual Studio temporary files
+.vs/
+**/.vs/
 
-/.vs/WinFormsStudentApp3.slnx/FileContentIndex/58c1ea6a-e054-44d5-ae4b-3a3acb45b003.vsidx
-/WindowsFormsApp3/.vs/WindowsFormsApp3.slnx/FileContentIndex/6aaffd18-ca4f-4b68-9b98-f23572bf5f3d.vsidx
-/WindowsFormsApp3/.vs/WindowsFormsApp3.slnx/FileContentIndex/a88047b6-5765-4a8d-9153-bbd04dad8997.vsidx
-/WindowsFormsApp3/.vs/WindowsFormsApp3.slnx/FileContentIndex/79127177-fd4e-4b17-b297-3a11c7dd3f90.vsidx
-/WindowsFormsApp3/.vs/WindowsFormsApp3.slnx/FileContentIndex/12053756-b897-4b25-860b-5e04277f8829.vsidx
-/WindowsFormsApp3/.vs/WindowsFormsApp3.slnx/FileContentIndex/f8889f55-b721-40e4-a076-df677d3ffc3c.vsidx
+# Build output
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio user-specific files
+*.user
+*.suo
