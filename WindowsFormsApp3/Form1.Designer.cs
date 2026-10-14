@@ -57,7 +57,7 @@
             this.Controls.Add(this.txtCourseName);
             this.Controls.Add(this.lblCourseName);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "git";
             this.ResumeLayout(false);
             this.PerformLayout();
 
